@@ -1,4 +1,4 @@
-/ Add event listner to HTML page that triggers when the page is loaded
+// Add event listner to HTML page that triggers when the page is loaded
 document.addEventListener("DOMContentLoaded", () => {
     // Get modal elements
     const modal = document.getElementById("myModal");
